@@ -1,0 +1,7 @@
+https://angular.io/guide/testing
+
+https://www.chartjs.org/
+
+Implementa i chart
+facendone uno per ogni valore oppure uno con tutti i valori utilizzando più assi y
+aggiungi tasto che permette di fare un chart specifico
